@@ -20,6 +20,8 @@ public class bio{
         System.out.print("Enter age: ");
         age=input.nextInt();
 
+        input.close();
+
 //Printing
         System.out.println("You are " +fname+" " +lname+". "+ "You are " +age+ " years old. "+ "Motto: " +motto+".");
     }
