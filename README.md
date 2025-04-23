@@ -2,7 +2,7 @@
 
 Welcome to the second chapter of my coding journey! This repository contains my Java programming projects developed during the second semester of my first year in college. After getting started with C, diving into Java opened up a whole new world of object-oriented programming and modern software development concepts.
 
-## ABout the Projects
+## About the Projects
 
 These projects were a mix of coursework assignments and personal explorations, helping me build a strong foundation in Java. Some of the key topics and skills I explored include:
 - Object-Oriented Programming (OOP)
